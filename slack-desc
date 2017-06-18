@@ -1,0 +1,11 @@
+asn1crypto: Python Asn1Crypto (A Python ASN.1 library)
+asn1crypto:
+asn1crypto: Asn1Crypto is a Python ASN.1 library with a focus on performance
+asn1crypto: and a pythonic API. In addition to an ASN.1 BER/DER decoder and
+asn1crypto: DER serializer, the project includes a bunch of ASN.1 structures
+asn1crypto: for use with various common cryptography standards (e.g. X.509,
+asn1crypto: CRL, CSR, OCSP, PKCS, etc).
+asn1crypto:
+asn1crypto:
+asn1crypto:
+asn1crypto: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
